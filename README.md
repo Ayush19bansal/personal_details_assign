@@ -1,3 +1,5 @@
+# Hosted link https://ayush19bansal.github.io/personal_details_assign/
+
 # personal_details_assign
 ![image](https://github.com/Ayush19bansal/personal_details_assign/assets/118842033/d97603ae-e44f-4e26-b2b1-62aff1253a9b)
 ![image](https://github.com/Ayush19bansal/personal_details_assign/assets/118842033/4a826241-cd76-4bac-b589-bd48fd9d00c4)
